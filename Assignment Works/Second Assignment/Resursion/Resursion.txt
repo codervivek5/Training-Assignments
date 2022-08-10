@@ -1,0 +1,5 @@
+Q1. Write a C program to print all natural numbers between 1 to n using recursion.
+Q2. Write a C program to print all even or odd numbers in given range using recursion.
+Q3. Write a C program to find sum of all natural numbers between 1 to n using recursion.
+Q4. Write a C program to find factorial of any number using recursion.
+Q5. Write a C program to find sum of digits of a given number using recursion.

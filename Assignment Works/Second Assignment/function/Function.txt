@@ -1,0 +1,6 @@
+Q1. Write a C program to find cube of any number using function.
+Q2. Write a C program to find diameter, circumference and area of circle using functions.
+Q3. Write a C program to find maximum and minimum between two numbers using functions.
+Q4. Write a C program to check whether a number is even or odd using functions.
+Q5. Write a C program to find all prime numbers between given interval using functions.
+Q6. Write a C program to print all Armstrong numbers between given interval using functions.

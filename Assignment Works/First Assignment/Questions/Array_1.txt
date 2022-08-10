@@ -1,0 +1,28 @@
+Q1. Write a program  to input and print array elements.
+Q2. Write a program  to find sum of array elements.
+Q3. Write a program to find maximum and minimum element in array.
+Q4. Write a program to copy array elements to another array.
+Q5.  Write a C program to insert an element in an array.
+Q6.  Write a C program to delete an element from an array at specified position.
+
+Q7.  Write a C program to count frequency of each element in an array.
+Q8.  Write a C program to print all unique elements in the array.
+Q9.  Write a C program to count total number of duplicate elements in an array.
+Q10.  Write a C program to delete all duplicate elements from an array.
+
+Q11. Write a program  to print negative elements in array.
+Q12. Write a program to count even and odd elements in array.
+Q13.  Write a program  to count negative elements in array.
+Q14. Write a program  to print array in reverse.
+Q15. Write a program to separate even and odd array elements.
+Q16. Write a program to search element in array.
+Q17. Write a program to add two matrices.
+Q18. Write a program to multiply two matrices.
+Q19. Write a program  to find sum of main diagonal elements of a matrix.
+Q20. Write a program to find sum of opposite diagonal elements of a matrix.
+Q21. Write a program to find sum of rows and columns of matrix.
+Q22. Write a program  to find transpose of a matrix.
+Q23.   Write a C program to left rotate an array.
+Q24.  Write a C program to right rotate an array.
+
+
